@@ -3,10 +3,10 @@
     {
       "name": "digistump",
       "maintainer": "Digistump,ArminJo",
-      "websiteURL": "https://github.com/ArminJo/DigistumpArduino",
+      "websiteURL": "https://github.com/Matt-CAND/DigistumpArduinoKBDE/tree/master",
       "email": "armin.arduino@gmail.com",
       "help": {
-        "online": "https://github.com/ArminJo/DigistumpArduino"
+        "online": "https://github.com/Matt-CAND/DigistumpArduinoKBDE/tree/master"
       },
       "platforms": [
         {
@@ -14,12 +14,12 @@
           "architecture": "avr",
           "version": "1.7.5",
           "category": "Digistump",
-          "url": "https://github.com/ArminJo/DigistumpArduino/raw/master/digistump-avr-1.7.5.zip",
+          "url": "https://github.com/Matt-CAND/DigistumpArduinoKBDE/raw/master/digistump-avr-1.7.5.zip",
           "archiveFileName": "digistump-avr-1.7.5.zip",
           "checksum": "SHA-256:cf37933e721eecc010d1e890cff4174ad8439662e4e610a6cd950f0ce8c124f0",
           "size": "2261198",
           "help": {
-            "online": "https://github.com/ArminJo/DigistumpArduino"
+            "online": "https://github.com/Matt-CAND/DigistumpArduinoKBDE/tree/master"
           },
           "boards": [
             {
